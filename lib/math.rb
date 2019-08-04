@@ -24,6 +24,6 @@ puts modulo
 end
 
 def square_root(num)
-  return sqrt.num
+  return sqrt num
   puts square_root
 end
