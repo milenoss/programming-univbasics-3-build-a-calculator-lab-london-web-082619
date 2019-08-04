@@ -24,6 +24,6 @@ puts modulo
 end
 
 def square_root(num)
-  
+  return 
 
 end
